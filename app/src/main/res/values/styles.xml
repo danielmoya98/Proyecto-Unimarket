@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="btnAddCart" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/add_cart_bg</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+
+</resources>
