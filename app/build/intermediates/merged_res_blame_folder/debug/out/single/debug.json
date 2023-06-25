@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_desc_helado.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\desc_helado.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_carnes.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\carnes.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_gaseosas_d.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\gaseosas_d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_card3cereal.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\card3cereal.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_card2oreo.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\card2oreo.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_switch_thumb.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\switch_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\font_open_sans.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\font\\open_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_gaseosas.jpeg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\gaseosas.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_frootloops_cereales.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\frootloops_cereales.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_activity_all_category.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\activity_all_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_buy_now_bg.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\buy_now_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_vegetales.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\vegetales.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_all_category_row_items.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\all_category_row_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_bebidas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_bebidas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_desc_apple.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\desc_apple.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_add_cart_bg.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\add_cart_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_huevos.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_huevos.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_ic_preferences.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\ic_preferences.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_logounimarket.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\logounimarket.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_desc_cereal.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\desc_cereal.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_galletas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_galletas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_activity_product_details.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\activity_product_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_bebidas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\bebidas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_card2gaseosas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\card2gaseosas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_ic_cart.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_frutas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\frutas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_categorias.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\categorias.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_carnes.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_carnes.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_frutas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_frutas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_desc_carne.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\desc_carne.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\font_open_sans_light.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\font\\open_sans_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_verduras.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_verduras.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_baseline_shopping_cart_25.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\baseline_shopping_cart_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_descuentos_filas_items.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\descuentos_filas_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_galletas_oreo.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\galletas_oreo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_discountberry.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\discountberry.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\font_work_sans_bold.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\font\\work_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_galletas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\galletas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_categoria_filas_items.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\categoria_filas_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cartbutton.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cartbutton.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_buscar_bg.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\buscar_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_card2chocolates.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\card2chocolates.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_chocolates_d.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\chocolates_d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_carne_roja.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\carne_roja.jpg"
+    },
+    {
+        "merged": "app.unimarket.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "app.unimarket.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_oferta_manzanas.jpg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\oferta_manzanas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_discountmeat.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\discountmeat.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_baseline_arrow_back_24.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\font_open_sans_bold.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\font\\open_sans_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\font_open_sans_semibold.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\font\\open_sans_semibold.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_desc_galletas.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\desc_galletas.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_discountbrocoli.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\discountbrocoli.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_termometro_dos.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\termometro_dos.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cat_pescado.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cat_pescado.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_galleta.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\galleta.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_gaseosa.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\gaseosa.png"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\layout_recently_viewed_items.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\layout\\recently_viewed_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_account_settings.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\account_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_cereal.jpeg.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\cereal.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_ic_cart_black.xml.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\ic_cart_black.xml"
+    },
+    {
+        "merged": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-merged_res-29:\\drawable_card2cereal.png.flat",
+        "source": "C:\\Users\\GIGABYTE\\.gradle\\daemon\\7.5\\app.unimarket.app-main-31:\\drawable\\card2cereal.png"
+    }
+]

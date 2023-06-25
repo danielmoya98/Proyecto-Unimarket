@@ -1,13 +1,22 @@
 package app.unimarket;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.SwitchCompat;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import android.content.Context;
 import android.content.Intent;
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
+import android.hardware.SensorManager;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.CompoundButton;
 import android.widget.ImageView;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -19,7 +28,13 @@ import app.unimarket.modelo.Categoria;
 import app.unimarket.modelo.Descuentos;
 import app.unimarket.modelo.RecentlyViewed;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements SensorEventListener {
+
+    SensorManager sensorManager;
+    Sensor sensor;
+    private SwitchCompat switchSensor;
+    private TextView txtTemperatura;
+
     RecyclerView descuentosRecyclerView, categoriaRecyclerView, recentlyViewedRecycler;
     DescuentosAdaptador descuentosAdaptador;
     ArrayList<Descuentos> descuentosList;
@@ -33,6 +48,30 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        sensorManager = (SensorManager)getSystemService(Context.SENSOR_SERVICE);
+        sensor = sensorManager.getDefaultSensor(Sensor.TYPE_AMBIENT_TEMPERATURE);
+        switchSensor = findViewById(R.id.switchSensor);
+        txtTemperatura = findViewById(R.id.txtTemperatura);
+
+        switchSensor.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton compoundButton, boolean isCkecked) {
+                if(isCkecked) {
+                    if(sensor != null) {
+                        sensorManager.registerListener(MainActivity.this, sensor, SensorManager.SENSOR_DELAY_NORMAL);
+                    }
+                    else {
+                        Toast.makeText(MainActivity.this, "El dispositivo no tiene sensor de temperatura.", Toast.LENGTH_SHORT).show();
+                        switchSensor.setChecked(false);
+                    }
+                }
+                else {
+                    sensorManager.unregisterListener(MainActivity.this);
+                    txtTemperatura.setText("Temp");
+                }
+            }
+        });
 
 
         descuentosRecyclerView = findViewById(R.id.descuentoRecycler);
@@ -63,10 +102,10 @@ public class MainActivity extends AppCompatActivity {
 
 
         recentlyViewedList = new ArrayList<>();
-        recentlyViewedList.add(new RecentlyViewed("Fruta 1", "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, quos.", "Bs. 20", " ", " ", R.drawable.card2oreo, R.drawable.galletas));
-        recentlyViewedList.add(new RecentlyViewed("Fruta 2", "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, quos.", "Bs. 35", " ", " ", R.drawable.card2gaseosas, R.drawable.bebidas));
-        recentlyViewedList.add(new RecentlyViewed("Fruta 3", "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, quos.", "Bs. 30", " ", " ", R.drawable.card2cereal, R.drawable.carne_roja));
-        recentlyViewedList.add(new RecentlyViewed("Fruta 4", "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis, quos.", "Bs. 10", " ", " ", R.drawable.card2chocolates, R.drawable.cereal));
+        recentlyViewedList.add(new RecentlyViewed("Galletas Oreo", "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Bs. 20", " ", " ", R.drawable.card2oreo, R.drawable.galletas_oreo));
+        recentlyViewedList.add(new RecentlyViewed("Gaseosas", "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Bs. 35", " ", " ", R.drawable.card2gaseosas, R.drawable.gaseosas_d));
+        recentlyViewedList.add(new RecentlyViewed("Froot Loops", "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Bs. 30", " ", " ", R.drawable.card2cereal, R.drawable.frootloops_cereales));
+        recentlyViewedList.add(new RecentlyViewed("Chocolates", "Lorem, ipsum dolor sit amet consectetur adipisicing elit.", "Bs. 90", " ", " ", R.drawable.card2chocolates, R.drawable.chocolates_d));
 
         setDescuentosRecycler(descuentosList);
         setCategoriaRecycler(categoriaList);
@@ -99,5 +138,31 @@ public class MainActivity extends AppCompatActivity {
         recentlyViewedRecycler.setLayoutManager(layoutManager);
         recentlyViewedAdapter = new RecentlyViewedAdapter(this, recentlyViewedDataList);
         categoriaRecyclerView.setAdapter(recentlyViewedAdapter);
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        if(switchSensor.isChecked() && sensor != null) {
+            sensorManager.registerListener(this, sensor, SensorManager.SENSOR_DELAY_NORMAL);
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+        sensorManager.unregisterListener(this);
+    }
+    @Override
+    public void onSensorChanged(SensorEvent sensorEvent) {
+        float temperatura = sensorEvent.values[0];
+        txtTemperatura.setText(temperatura + "°C");
+    }
+
+    @Override
+    public void onAccuracyChanged(Sensor sensor, int i) {
+
     }
 }
